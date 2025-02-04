@@ -1,0 +1,28 @@
+
+
+
+Reactjs E-commerce Application
+------------------------------
+Guvi Project
+------------
+
+Name: Vijayaragavan
+Batch: DO-WE-E-B2
+
+
+
+Submission
+___________
+
+
+GITHUB Repo: https://github.com/Vijaygit2442/devops-build.git
+
+Deployed Website: React App , http://15.207.21.92/
+
+Dockerimage Name: vijayr2024/reactecommerce , vijayr2024/reactecommerceprod
+
+https://hub.docker.com/repository/docker/vijayr2024/reactecommerce
+https://hub.docker.com/repository/docker/vijayr2024/reactecommerceprod
+
+
+
